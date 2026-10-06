@@ -1,0 +1,11 @@
+# Go binary
+*.exe
+prata_party
+
+# Node / Ink client
+client-cli/node_modules/
+client-cli/dist/
+
+# OS
+.DS_Store
+Thumbs.db
